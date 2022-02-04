@@ -1,0 +1,22 @@
+{
+  "checkinDate": "2022-02-04",
+  "checkoutDate": "2022-02-05",
+  "currency": "EUR",
+  "details": null,
+  "nights": 1,
+  "offerCode": "DIRECT",
+  "rateId": 0,
+  "roomId": 0,
+  "roomRates": [],
+  "selectedAdultCount": 2,
+  "selectedChildCount": 0,
+  "selectedInfantCount": 0,
+  "selectedRoomId": 0,
+  "selectedRate": "",
+  "isBookingRequest": false,
+  "isMultiHotelCrossSellDisabled": false,
+  "isMixedRatesDisabled": false,
+  "mixedRate": null,
+  "queryString": "?_token=WXAwUZIkDEURxvKbdXPcWpKeAd8CgGgUqG9bxCD5&guestCountSelector=ReadOnly&selectedHotelId=24755",
+  "basketId": ""
+}

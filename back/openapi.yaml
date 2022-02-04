@@ -1,0 +1,51 @@
+openapi: 3.0.0
+info:
+  title: Hotel Booking Web API
+  version: 1.0.0
+paths:
+  /rooms:
+    get:
+      summary: Find rooms for booking
+
+      responses:
+        200:
+          description: Rooms for booking
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  result:
+                    type: string
+                  data:
+                    type: array
+
+  /bookings:
+    post:
+      summary: Create a booking/bookings.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#components/schemas/CreateBookingRequest
+      responses:
+        200:
+          description: X
+          content:
+            application/json:
+              schema:
+                type: object
+
+components:
+  schemas:
+    CreateBookingRequest:
+      type: object
+      properties:
+        clientInfo:
+          type: object
+          properties:
+            name:
+              type: string
+        rooms:
+          type: array

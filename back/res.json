@@ -1,0 +1,1968 @@
+{
+  "success": true,
+  "data": {
+    "redirect": null,
+    "showResetFilterLink": false,
+    "message": null,
+    "checkin": "2022-02-04",
+    "checkout": "2022-02-05",
+    "currency": "EUR",
+    "rooms": [
+      {
+        "roomId": 107878,
+        "name": "King Double Room",
+        "summary": "<p>\nEnjoy excellent stay in our comfortable King room with large Double bed. High speed wireless internet is available in every room. Complimentary toiletries are available in well-designed bathrooms.\n</p>\n<p>\nPlease NOTE: From the 1st of November to check-in to the hotel the guests should have either negative coronavirus (COVID-19) PCR test result or the certificate of full vaccination.\n</p>\n",
+        "category": "",
+        "type": 2,
+        "typeFilter": "Double",
+        "defaultOccupancy": "2 people",
+        "notEnoughPlace": "",
+        "sort": 0,
+        "beds": [
+          {
+            "count": 1,
+            "type": "Double bed",
+            "size": "55 x 79 in",
+            "twoPersonConvertible": false
+          }
+        ],
+        "roomSize": "247.57 ft²",
+        "roomSizes": "23 m² or 247.57 ft²",
+        "defaultPicture": {
+          "display": "https://i.1pic.co/files/images/Smart_Room_Principal/7b011c53-f6f2-474a-a67d-7651a27816f9",
+          "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/7b011c53-f6f2-474a-a67d-7651a27816f9"
+        },
+        "pictures": [
+          {
+            "display": "https://i.1pic.co/files/images/Smart_Gallery_Preview/a8ed44bc-5305-4cf4-88c6-f9626fb0341a",
+            "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/a8ed44bc-5305-4cf4-88c6-f9626fb0341a"
+          },
+          {
+            "display": "https://i.1pic.co/files/images/Smart_Gallery_Preview/f914aa89-ffdb-47b7-bb1d-55b041305f3e",
+            "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/f914aa89-ffdb-47b7-bb1d-55b041305f3e"
+          },
+          {
+            "display": "https://i.1pic.co/files/images/Smart_Gallery_Preview/a07e7e97-c5b1-4f42-a1c3-ef123843050a",
+            "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/a07e7e97-c5b1-4f42-a1c3-ef123843050a"
+          }
+        ],
+        "rates": [
+          {
+            "roomName": "King Double Room",
+            "beds": [
+              {
+                "count": 1,
+                "type": "Double bed",
+                "size": "55 x 79 in",
+                "twoPersonConvertible": false
+              }
+            ],
+            "cancellationPolicy": "Free cancellation before 2/4/2022 at 2:00 PM. If cancelled after this or in the event of a no-show at the hotel, the first night without extras is charged and non-refundable.",
+            "cancellationShortPolicy": "Free cancellation before 2/4/2022 at 2:00 PM",
+            "title": "Deal -12%, Room Only",
+            "forceNameDisplay": true,
+            "subTitle": " cancellation fees",
+            "packageType": 0,
+            "mealPlan": "RoomOnly",
+            "mealPlanLabel": "",
+            "sortOrder": 1,
+            "summary": "",
+            "defaultOccupancy": "2 people",
+            "deposit": "No guarantee deposit. The credit/debit card number is required but the card will not be debited.",
+            "shortDeposit": "No guarantee deposit",
+            "included": "",
+            "excluded": "",
+            "occupancy": {
+              "adults": 2,
+              "children": 0,
+              "infants": 0,
+              "value": "2 adults"
+            },
+            "occupancyId": 0,
+            "price": 59.0,
+            "rateCode": "DIRECT-RO",
+            "rateName": "Deal -12%, Room Only",
+            "totalPrice": 59.0,
+            "formattedPrice": "€ 59",
+            "formattedTotalPrice": "€ 59",
+            "formattedPriceOff": "€ 67",
+            "formattedTotalPriceOff": "€ 67",
+            "availabilityText": "Only 7 rooms left!",
+            "taxPrice": 0.0,
+            "ratePrice": 59.0,
+            "totalRatePrice": 59.0,
+            "trackingPrice": 59.0,
+            "trackingRatePrice": 59.0,
+            "rateCurrency": "EUR",
+            "quantity": 1,
+            "availability": 7,
+            "cancelCondition": "\u0000",
+            "rateId": 314387,
+            "roomId": 107878,
+            "type": 0,
+            "cancellationType": "CancelationUnderCondition",
+            "packageName": "",
+            "sku": "H24755/R107878",
+            "offerId": "R314387/O0",
+            "isValid": false,
+            "message": null,
+            "priceChanged": false,
+            "defaultPicture": null,
+            "pictures": null,
+            "hasBookingFees": false,
+            "isBookingRequest": false,
+            "taxAndFees": "Taxes included. Note that stay tax may apply, in that case, its amount will be indicated at the booking step. No booking fees.",
+            "occupationSort": 2,
+            "guestSort": 0,
+            "rateSortOrder": 1,
+            "extendedStayNights": 0,
+            "extendedStayText": "",
+            "extendedMoreNights": false,
+            "availablePackages": [],
+            "includedTaxes": [],
+            "includedTaxesAmount": "",
+            "excludedTaxes": [
+              "City Tax : EUR1.80 per person per night"
+            ],
+            "excludedTaxesAmount": "",
+            "offerCode": "",
+            "offerCodeTitle": "",
+            "offerCodeDescription": "",
+            "offerCodeType": 0,
+            "isOfferCodeValid": false,
+            "isRoom": true,
+            "internetStatus": "",
+            "breakfastStatus": "",
+            "taxesStatus": "",
+            "mixedRate": null,
+            "offerCodeId": null,
+            "displayOccupancyDetails": true,
+            "mealPlanDetail": null
+          },
+          {
+            "roomName": "King Double Room",
+            "beds": [
+              {
+                "count": 1,
+                "type": "Double bed",
+                "size": "55 x 79 in",
+                "twoPersonConvertible": false
+              }
+            ],
+            "cancellationPolicy": "Free cancellation before 2/4/2022 at 2:00 PM. If cancelled after this or in the event of a no-show at the hotel, the first night without extras is charged and non-refundable.",
+            "cancellationShortPolicy": "Free cancellation before 2/4/2022 at 2:00 PM",
+            "title": "Deal -12% with Breakfast",
+            "forceNameDisplay": true,
+            "subTitle": " cancellation fees",
+            "packageType": 1,
+            "mealPlan": "BreakfastIncluded",
+            "mealPlanLabel": "",
+            "sortOrder": 12,
+            "summary": "",
+            "defaultOccupancy": "2 people",
+            "deposit": "No guarantee deposit. The credit/debit card number is required but the card will not be debited.",
+            "shortDeposit": "No guarantee deposit",
+            "included": "Breakfast included",
+            "excluded": "",
+            "occupancy": {
+              "adults": 2,
+              "children": 0,
+              "infants": 0,
+              "value": "2 adults"
+            },
+            "occupancyId": 0,
+            "price": 79.0,
+            "rateCode": "DIRECT",
+            "rateName": "Deal -12% with Breakfast",
+            "totalPrice": 79.0,
+            "formattedPrice": "€ 79",
+            "formattedTotalPrice": "€ 79",
+            "formattedPriceOff": "€ 87",
+            "formattedTotalPriceOff": "€ 87",
+            "availabilityText": "Only 7 rooms left!",
+            "taxPrice": 0.0,
+            "ratePrice": 79.0,
+            "totalRatePrice": 79.0,
+            "trackingPrice": 79.0,
+            "trackingRatePrice": 79.0,
+            "rateCurrency": "EUR",
+            "quantity": 1,
+            "availability": 7,
+            "cancelCondition": "\u0000",
+            "rateId": 314209,
+            "roomId": 107878,
+            "type": 1,
+            "cancellationType": "CancelationUnderCondition",
+            "packageName": "",
+            "sku": "H24755/R107878",
+            "offerId": "R314209/O0",
+            "isValid": false,
+            "message": null,
+            "priceChanged": false,
+            "defaultPicture": null,
+            "pictures": null,
+            "hasBookingFees": false,
+            "isBookingRequest": false,
+            "taxAndFees": "Taxes included. Note that stay tax may apply, in that case, its amount will be indicated at the booking step. No booking fees.",
+            "occupationSort": 2,
+            "guestSort": 0,
+            "rateSortOrder": 12,
+            "extendedStayNights": 0,
+            "extendedStayText": "",
+            "extendedMoreNights": false,
+            "availablePackages": [],
+            "includedTaxes": [],
+            "includedTaxesAmount": "",
+            "excludedTaxes": [
+              "City Tax : EUR1.80 per person per night"
+            ],
+            "excludedTaxesAmount": "",
+            "offerCode": "",
+            "offerCodeTitle": "",
+            "offerCodeDescription": "",
+            "offerCodeType": 0,
+            "isOfferCodeValid": false,
+            "isRoom": true,
+            "internetStatus": "",
+            "breakfastStatus": "",
+            "taxesStatus": "",
+            "mixedRate": null,
+            "offerCodeId": null,
+            "displayOccupancyDetails": true,
+            "mealPlanDetail": {
+              "name": "Breakfast Buffet",
+              "pictures": [],
+              "content": "",
+              "totalPrice": 20.0,
+              "totalMealPlanPrice": 20.0
+            }
+          },
+          {
+            "roomName": "King Double Room",
+            "beds": [
+              {
+                "count": 1,
+                "type": "Double bed",
+                "size": "55 x 79 in",
+                "twoPersonConvertible": false
+              }
+            ],
+            "cancellationPolicy": "Free cancellation before 2/4/2022 at 2:00 PM. If cancelled after this or in the event of a no-show at the hotel, the first night without extras is charged and non-refundable.",
+            "cancellationShortPolicy": "Free cancellation before 2/4/2022 at 2:00 PM",
+            "title": "Sky Love Package",
+            "forceNameDisplay": true,
+            "subTitle": "",
+            "packageType": 8,
+            "mealPlan": "HalfBoardPackage",
+            "mealPlanLabel": "",
+            "sortOrder": 45,
+            "summary": "<p>\nAs Valentine&#39;s Day approaches, we have prepared something special for you... Accommodation in Sky Loft Kyiv Hotel by Rixwell with tasty dinner at the Easy Breezy restaurant and breakfast for two.\n</p>\n<p>\nOffer includes:\n<br />\nAccommodation in a King Double room or Superior Double room with breakfast, 2 days 1 night\n<br />\nDinner for 2 people at the Easy Breezy restaurant\n<br />\nEarly check-in (from 09.00) or late check-out (until 15.00) - at your choice\n<br />\nSweet present from the hotel\n<br />\nPanoramic view of the city\n</p>\n",
+            "defaultOccupancy": "2 people",
+            "deposit": "No guarantee deposit. The credit/debit card number is required but the card will not be debited.",
+            "shortDeposit": "No guarantee deposit",
+            "included": "Half board included",
+            "excluded": "",
+            "occupancy": {
+              "adults": 2,
+              "children": 0,
+              "infants": 0,
+              "value": "2 adults"
+            },
+            "occupancyId": 0,
+            "price": 131.0,
+            "rateCode": "DIRECT-SKYLOVE",
+            "rateName": "Sky Love Package",
+            "totalPrice": 131.0,
+            "formattedPrice": "€ 131",
+            "formattedTotalPrice": "€ 131",
+            "formattedPriceOff": "",
+            "formattedTotalPriceOff": "",
+            "availabilityText": "Only 7 rooms left!",
+            "taxPrice": 0.0,
+            "ratePrice": 131.0,
+            "totalRatePrice": 131.0,
+            "trackingPrice": 131.0,
+            "trackingRatePrice": 131.0,
+            "rateCurrency": "EUR",
+            "quantity": 1,
+            "availability": 7,
+            "cancelCondition": "\u0000",
+            "rateId": 398809,
+            "roomId": 107878,
+            "type": 8,
+            "cancellationType": "CancelationUnderCondition",
+            "packageName": "Sky Love Package",
+            "sku": "H24755/R107878",
+            "offerId": "R398809/O0",
+            "isValid": false,
+            "message": null,
+            "priceChanged": false,
+            "defaultPicture": {
+              "display": "https://i.1pic.co/files/images/Smart_Package_Principal/68fcbbbc-1b3f-4636-82ac-0e3faf954743",
+              "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/68fcbbbc-1b3f-4636-82ac-0e3faf954743"
+            },
+            "pictures": [],
+            "hasBookingFees": false,
+            "isBookingRequest": false,
+            "taxAndFees": "Taxes included. Note that stay tax may apply, in that case, its amount will be indicated at the booking step. No booking fees.",
+            "occupationSort": 2,
+            "guestSort": 0,
+            "rateSortOrder": 45,
+            "extendedStayNights": 0,
+            "extendedStayText": "",
+            "extendedMoreNights": false,
+            "availablePackages": [
+              {
+                "roomName": "King Double Room",
+                "beds": [
+                  {
+                    "count": 1,
+                    "type": "Double bed",
+                    "size": "55 x 79 in",
+                    "twoPersonConvertible": false
+                  }
+                ],
+                "cancellationPolicy": "Free cancellation before 2/4/2022 at 2:00 PM. If cancelled after this or in the event of a no-show at the hotel, the first night without extras is charged and non-refundable.",
+                "cancellationShortPolicy": "Free cancellation before 2/4/2022 at 2:00 PM",
+                "title": "Sky Love Package",
+                "forceNameDisplay": true,
+                "subTitle": "",
+                "packageType": 8,
+                "mealPlan": "HalfBoardPackage",
+                "mealPlanLabel": "",
+                "sortOrder": 45,
+                "summary": "<p>\nAs Valentine&#39;s Day approaches, we have prepared something special for you... Accommodation in Sky Loft Kyiv Hotel by Rixwell with tasty dinner at the Easy Breezy restaurant and breakfast for two.\n</p>\n<p>\nOffer includes:\n<br />\nAccommodation in a King Double room or Superior Double room with breakfast, 2 days 1 night\n<br />\nDinner for 2 people at the Easy Breezy restaurant\n<br />\nEarly check-in (from 09.00) or late check-out (until 15.00) - at your choice\n<br />\nSweet present from the hotel\n<br />\nPanoramic view of the city\n</p>\n",
+                "defaultOccupancy": "2 people",
+                "deposit": "No guarantee deposit. The credit/debit card number is required but the card will not be debited.",
+                "shortDeposit": "No guarantee deposit",
+                "included": "Half board included",
+                "excluded": "",
+                "occupancy": {
+                  "adults": 2,
+                  "children": 0,
+                  "infants": 0,
+                  "value": "2 adults"
+                },
+                "occupancyId": 0,
+                "price": 131.0,
+                "rateCode": "DIRECT-SKYLOVE",
+                "rateName": "Sky Love Package",
+                "totalPrice": 131.0,
+                "formattedPrice": "€ 131",
+                "formattedTotalPrice": "€ 131",
+                "formattedPriceOff": "",
+                "formattedTotalPriceOff": "",
+                "availabilityText": "Only 7 rooms left!",
+                "taxPrice": 0.0,
+                "ratePrice": 131.0,
+                "totalRatePrice": 131.0,
+                "trackingPrice": 131.0,
+                "trackingRatePrice": 131.0,
+                "rateCurrency": "EUR",
+                "quantity": 1,
+                "availability": 7,
+                "cancelCondition": "\u0000",
+                "rateId": 398809,
+                "roomId": 107878,
+                "type": 8,
+                "cancellationType": "CancelationUnderCondition",
+                "packageName": "Sky Love Package",
+                "sku": "H24755/R107878",
+                "offerId": "R398809/O0",
+                "isValid": false,
+                "message": null,
+                "priceChanged": false,
+                "defaultPicture": {
+                  "display": "https://i.1pic.co/files/images/Smart_Package_Principal/68fcbbbc-1b3f-4636-82ac-0e3faf954743",
+                  "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/68fcbbbc-1b3f-4636-82ac-0e3faf954743"
+                },
+                "pictures": [],
+                "hasBookingFees": false,
+                "isBookingRequest": false,
+                "taxAndFees": "Taxes included. Note that stay tax may apply, in that case, its amount will be indicated at the booking step. No booking fees.",
+                "occupationSort": 2,
+                "guestSort": 0,
+                "rateSortOrder": 45,
+                "extendedStayNights": 0,
+                "extendedStayText": "",
+                "extendedMoreNights": false,
+                "availablePackages": [],
+                "includedTaxes": [],
+                "includedTaxesAmount": "",
+                "excludedTaxes": [
+                  "City Tax : EUR1.80 per person per night"
+                ],
+                "excludedTaxesAmount": "",
+                "offerCode": "",
+                "offerCodeTitle": "",
+                "offerCodeDescription": "",
+                "offerCodeType": 0,
+                "isOfferCodeValid": false,
+                "isRoom": true,
+                "internetStatus": "",
+                "breakfastStatus": "",
+                "taxesStatus": "",
+                "mixedRate": null,
+                "offerCodeId": null,
+                "displayOccupancyDetails": true,
+                "mealPlanDetail": null
+              }
+            ],
+            "includedTaxes": [],
+            "includedTaxesAmount": "",
+            "excludedTaxes": [
+              "City Tax : EUR1.80 per person per night"
+            ],
+            "excludedTaxesAmount": "",
+            "offerCode": "",
+            "offerCodeTitle": "",
+            "offerCodeDescription": "",
+            "offerCodeType": 0,
+            "isOfferCodeValid": false,
+            "isRoom": true,
+            "internetStatus": "",
+            "breakfastStatus": "",
+            "taxesStatus": "",
+            "mixedRate": null,
+            "offerCodeId": null,
+            "displayOccupancyDetails": true,
+            "mealPlanDetail": null
+          }
+        ],
+        "moreRates": [],
+        "amenities": [
+          {
+            "name": "No smoking",
+            "value": "NonSmoking"
+          },
+          {
+            "name": "Air conditioning",
+            "value": "AirConditioning"
+          },
+          {
+            "name": "Minibar",
+            "value": "MiniBar"
+          },
+          {
+            "name": "Safe",
+            "value": "SafeBox"
+          },
+          {
+            "name": "Iron and ironing board",
+            "value": "IroningBoard"
+          },
+          {
+            "name": "Telephone",
+            "value": "Phone"
+          },
+          {
+            "name": "Private bathroom",
+            "value": "Bathroom"
+          },
+          {
+            "name": "Hair dryer",
+            "value": "HairDryer"
+          },
+          {
+            "name": "Shower",
+            "value": "Shower"
+          },
+          {
+            "name": "Flatscreen TV",
+            "value": "FlatScreenTelevision"
+          },
+          {
+            "name": "Wireless Internet access",
+            "value": "WirelessInternetAccess"
+          },
+          {
+            "name": "Radio",
+            "value": "Radio"
+          },
+          {
+            "name": "Alarm",
+            "value": "AlarmClock"
+          }
+        ],
+        "sortOrder": 3,
+        "isRoom": true,
+        "maxOccupancy": 3,
+        "displayOccupancyDetails": true,
+        "maxAdults": 3,
+        "maxChildren": 0,
+        "maxInfants": 1,
+        "defaultRequestedOccupancy": {
+          "adults": 2,
+          "children": 0,
+          "infants": 0,
+          "value": "2 adults"
+        }
+      },
+      {
+        "roomId": 107879,
+        "name": "Superior Sky King Double Room City view",
+        "summary": "<p>\nEnjoy excellent stay with magnificent views in our Superior Sky King rooms. Modern interior and high quality amenities are welcoming you. Working area is equipped with ergonomic chair. High speed wireless internet is available in every room. Complimentary toiletries are available in well-designed bathrooms.\n</p>\n<p>\nPlease NOTE: From the 1st of November to check-in to the hotel the guests should have either negative coronavirus (COVID-19) PCR test result or the certificate of full vaccination.\n</p>\n",
+        "category": "Superior",
+        "type": 2,
+        "typeFilter": "Double-Superior",
+        "defaultOccupancy": "2 people",
+        "notEnoughPlace": "",
+        "sort": 0,
+        "beds": [
+          {
+            "count": 1,
+            "type": "Double bed",
+            "size": "55 x 79 in",
+            "twoPersonConvertible": false
+          }
+        ],
+        "roomSize": "247.57 ft²",
+        "roomSizes": "23 m² or 247.57 ft²",
+        "defaultPicture": {
+          "display": "https://i.1pic.co/files/images/Smart_Room_Principal/57516fd4-8409-416d-8f01-ac6b51496611",
+          "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/57516fd4-8409-416d-8f01-ac6b51496611"
+        },
+        "pictures": [
+          {
+            "display": "https://i.1pic.co/files/images/Smart_Gallery_Preview/189c1a29-2903-4ee1-be7f-b64ec0f0563b",
+            "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/189c1a29-2903-4ee1-be7f-b64ec0f0563b"
+          },
+          {
+            "display": "https://i.1pic.co/files/images/Smart_Gallery_Preview/04090a69-bb64-4e9b-bee3-9e531738a6b1",
+            "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/04090a69-bb64-4e9b-bee3-9e531738a6b1"
+          },
+          {
+            "display": "https://i.1pic.co/files/images/Smart_Gallery_Preview/a37da1c8-0a7f-485a-afd7-5bb75e4ad480",
+            "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/a37da1c8-0a7f-485a-afd7-5bb75e4ad480"
+          },
+          {
+            "display": "https://i.1pic.co/files/images/Smart_Gallery_Preview/c5f88f5f-d6e0-4568-bc3f-cfd3203c59d3",
+            "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/c5f88f5f-d6e0-4568-bc3f-cfd3203c59d3"
+          }
+        ],
+        "rates": [
+          {
+            "roomName": "Superior Sky King Double Room City view",
+            "beds": [
+              {
+                "count": 1,
+                "type": "Double bed",
+                "size": "55 x 79 in",
+                "twoPersonConvertible": false
+              }
+            ],
+            "cancellationPolicy": "Free cancellation before 2/4/2022 at 2:00 PM. If cancelled after this or in the event of a no-show at the hotel, the first night without extras is charged and non-refundable.",
+            "cancellationShortPolicy": "Free cancellation before 2/4/2022 at 2:00 PM",
+            "title": "Deal -12%, Room Only",
+            "forceNameDisplay": true,
+            "subTitle": " cancellation fees",
+            "packageType": 0,
+            "mealPlan": "RoomOnly",
+            "mealPlanLabel": "",
+            "sortOrder": 1,
+            "summary": "",
+            "defaultOccupancy": "2 people",
+            "deposit": "No guarantee deposit. The credit/debit card number is required but the card will not be debited.",
+            "shortDeposit": "No guarantee deposit",
+            "included": "",
+            "excluded": "",
+            "occupancy": {
+              "adults": 2,
+              "children": 0,
+              "infants": 0,
+              "value": "2 adults"
+            },
+            "occupancyId": 0,
+            "price": 63.0,
+            "rateCode": "DIRECT-RO",
+            "rateName": "Deal -12%, Room Only",
+            "totalPrice": 63.0,
+            "formattedPrice": "€ 63",
+            "formattedTotalPrice": "€ 63",
+            "formattedPriceOff": "€ 72",
+            "formattedTotalPriceOff": "€ 72",
+            "availabilityText": "Only 3 rooms left!",
+            "taxPrice": 0.0,
+            "ratePrice": 63.0,
+            "totalRatePrice": 63.0,
+            "trackingPrice": 63.0,
+            "trackingRatePrice": 63.0,
+            "rateCurrency": "EUR",
+            "quantity": 1,
+            "availability": 3,
+            "cancelCondition": "\u0000",
+            "rateId": 314387,
+            "roomId": 107879,
+            "type": 0,
+            "cancellationType": "CancelationUnderCondition",
+            "packageName": "",
+            "sku": "H24755/R107879",
+            "offerId": "R314387/O0",
+            "isValid": false,
+            "message": null,
+            "priceChanged": false,
+            "defaultPicture": null,
+            "pictures": null,
+            "hasBookingFees": false,
+            "isBookingRequest": false,
+            "taxAndFees": "Taxes included. Note that stay tax may apply, in that case, its amount will be indicated at the booking step. No booking fees.",
+            "occupationSort": 2,
+            "guestSort": 0,
+            "rateSortOrder": 1,
+            "extendedStayNights": 0,
+            "extendedStayText": "",
+            "extendedMoreNights": false,
+            "availablePackages": [],
+            "includedTaxes": [],
+            "includedTaxesAmount": "",
+            "excludedTaxes": [
+              "City Tax : EUR1.80 per person per night"
+            ],
+            "excludedTaxesAmount": "",
+            "offerCode": "",
+            "offerCodeTitle": "",
+            "offerCodeDescription": "",
+            "offerCodeType": 0,
+            "isOfferCodeValid": false,
+            "isRoom": true,
+            "internetStatus": "",
+            "breakfastStatus": "",
+            "taxesStatus": "",
+            "mixedRate": null,
+            "offerCodeId": null,
+            "displayOccupancyDetails": true,
+            "mealPlanDetail": null
+          },
+          {
+            "roomName": "Superior Sky King Double Room City view",
+            "beds": [
+              {
+                "count": 1,
+                "type": "Double bed",
+                "size": "55 x 79 in",
+                "twoPersonConvertible": false
+              }
+            ],
+            "cancellationPolicy": "Free cancellation before 2/4/2022 at 2:00 PM. If cancelled after this or in the event of a no-show at the hotel, the first night without extras is charged and non-refundable.",
+            "cancellationShortPolicy": "Free cancellation before 2/4/2022 at 2:00 PM",
+            "title": "Deal -12% with Breakfast",
+            "forceNameDisplay": true,
+            "subTitle": " cancellation fees",
+            "packageType": 1,
+            "mealPlan": "BreakfastIncluded",
+            "mealPlanLabel": "",
+            "sortOrder": 12,
+            "summary": "",
+            "defaultOccupancy": "2 people",
+            "deposit": "No guarantee deposit. The credit/debit card number is required but the card will not be debited.",
+            "shortDeposit": "No guarantee deposit",
+            "included": "Breakfast included",
+            "excluded": "",
+            "occupancy": {
+              "adults": 2,
+              "children": 0,
+              "infants": 0,
+              "value": "2 adults"
+            },
+            "occupancyId": 0,
+            "price": 83.0,
+            "rateCode": "DIRECT",
+            "rateName": "Deal -12% with Breakfast",
+            "totalPrice": 83.0,
+            "formattedPrice": "€ 83",
+            "formattedTotalPrice": "€ 83",
+            "formattedPriceOff": "€ 92",
+            "formattedTotalPriceOff": "€ 92",
+            "availabilityText": "Only 3 rooms left!",
+            "taxPrice": 0.0,
+            "ratePrice": 83.0,
+            "totalRatePrice": 83.0,
+            "trackingPrice": 83.0,
+            "trackingRatePrice": 83.0,
+            "rateCurrency": "EUR",
+            "quantity": 1,
+            "availability": 3,
+            "cancelCondition": "\u0000",
+            "rateId": 314209,
+            "roomId": 107879,
+            "type": 1,
+            "cancellationType": "CancelationUnderCondition",
+            "packageName": "",
+            "sku": "H24755/R107879",
+            "offerId": "R314209/O0",
+            "isValid": false,
+            "message": null,
+            "priceChanged": false,
+            "defaultPicture": null,
+            "pictures": null,
+            "hasBookingFees": false,
+            "isBookingRequest": false,
+            "taxAndFees": "Taxes included. Note that stay tax may apply, in that case, its amount will be indicated at the booking step. No booking fees.",
+            "occupationSort": 2,
+            "guestSort": 0,
+            "rateSortOrder": 12,
+            "extendedStayNights": 0,
+            "extendedStayText": "",
+            "extendedMoreNights": false,
+            "availablePackages": [],
+            "includedTaxes": [],
+            "includedTaxesAmount": "",
+            "excludedTaxes": [
+              "City Tax : EUR1.80 per person per night"
+            ],
+            "excludedTaxesAmount": "",
+            "offerCode": "",
+            "offerCodeTitle": "",
+            "offerCodeDescription": "",
+            "offerCodeType": 0,
+            "isOfferCodeValid": false,
+            "isRoom": true,
+            "internetStatus": "",
+            "breakfastStatus": "",
+            "taxesStatus": "",
+            "mixedRate": null,
+            "offerCodeId": null,
+            "displayOccupancyDetails": true,
+            "mealPlanDetail": {
+              "name": "Breakfast Buffet",
+              "pictures": [],
+              "content": "",
+              "totalPrice": 20.0,
+              "totalMealPlanPrice": 20.0
+            }
+          },
+          {
+            "roomName": "Superior Sky King Double Room City view",
+            "beds": [
+              {
+                "count": 1,
+                "type": "Double bed",
+                "size": "55 x 79 in",
+                "twoPersonConvertible": false
+              }
+            ],
+            "cancellationPolicy": "Free cancellation before 2/4/2022 at 2:00 PM. If cancelled after this or in the event of a no-show at the hotel, the first night without extras is charged and non-refundable.",
+            "cancellationShortPolicy": "Free cancellation before 2/4/2022 at 2:00 PM",
+            "title": "Sky Love Package",
+            "forceNameDisplay": true,
+            "subTitle": "",
+            "packageType": 8,
+            "mealPlan": "HalfBoardPackage",
+            "mealPlanLabel": "",
+            "sortOrder": 45,
+            "summary": "<p>\nAs Valentine&#39;s Day approaches, we have prepared something special for you... Accommodation in Sky Loft Kyiv Hotel by Rixwell with tasty dinner at the Easy Breezy restaurant and breakfast for two.\n</p>\n<p>\nOffer includes:\n<br />\nAccommodation in a King Double room or Superior Double room with breakfast, 2 days 1 night\n<br />\nDinner for 2 people at the Easy Breezy restaurant\n<br />\nEarly check-in (from 09.00) or late check-out (until 15.00) - at your choice\n<br />\nSweet present from the hotel\n<br />\nPanoramic view of the city\n</p>\n",
+            "defaultOccupancy": "2 people",
+            "deposit": "No guarantee deposit. The credit/debit card number is required but the card will not be debited.",
+            "shortDeposit": "No guarantee deposit",
+            "included": "Half board included",
+            "excluded": "",
+            "occupancy": {
+              "adults": 2,
+              "children": 0,
+              "infants": 0,
+              "value": "2 adults"
+            },
+            "occupancyId": 0,
+            "price": 141.0,
+            "rateCode": "DIRECT-SKYLOVE",
+            "rateName": "Sky Love Package",
+            "totalPrice": 141.0,
+            "formattedPrice": "€ 141",
+            "formattedTotalPrice": "€ 141",
+            "formattedPriceOff": "",
+            "formattedTotalPriceOff": "",
+            "availabilityText": "Only 3 rooms left!",
+            "taxPrice": 0.0,
+            "ratePrice": 141.0,
+            "totalRatePrice": 141.0,
+            "trackingPrice": 141.0,
+            "trackingRatePrice": 141.0,
+            "rateCurrency": "EUR",
+            "quantity": 1,
+            "availability": 3,
+            "cancelCondition": "\u0000",
+            "rateId": 398809,
+            "roomId": 107879,
+            "type": 8,
+            "cancellationType": "CancelationUnderCondition",
+            "packageName": "Sky Love Package",
+            "sku": "H24755/R107879",
+            "offerId": "R398809/O0",
+            "isValid": false,
+            "message": null,
+            "priceChanged": false,
+            "defaultPicture": {
+              "display": "https://i.1pic.co/files/images/Smart_Package_Principal/68fcbbbc-1b3f-4636-82ac-0e3faf954743",
+              "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/68fcbbbc-1b3f-4636-82ac-0e3faf954743"
+            },
+            "pictures": [],
+            "hasBookingFees": false,
+            "isBookingRequest": false,
+            "taxAndFees": "Taxes included. Note that stay tax may apply, in that case, its amount will be indicated at the booking step. No booking fees.",
+            "occupationSort": 2,
+            "guestSort": 0,
+            "rateSortOrder": 45,
+            "extendedStayNights": 0,
+            "extendedStayText": "",
+            "extendedMoreNights": false,
+            "availablePackages": [
+              {
+                "roomName": "Superior Sky King Double Room City view",
+                "beds": [
+                  {
+                    "count": 1,
+                    "type": "Double bed",
+                    "size": "55 x 79 in",
+                    "twoPersonConvertible": false
+                  }
+                ],
+                "cancellationPolicy": "Free cancellation before 2/4/2022 at 2:00 PM. If cancelled after this or in the event of a no-show at the hotel, the first night without extras is charged and non-refundable.",
+                "cancellationShortPolicy": "Free cancellation before 2/4/2022 at 2:00 PM",
+                "title": "Sky Love Package",
+                "forceNameDisplay": true,
+                "subTitle": "",
+                "packageType": 8,
+                "mealPlan": "HalfBoardPackage",
+                "mealPlanLabel": "",
+                "sortOrder": 45,
+                "summary": "<p>\nAs Valentine&#39;s Day approaches, we have prepared something special for you... Accommodation in Sky Loft Kyiv Hotel by Rixwell with tasty dinner at the Easy Breezy restaurant and breakfast for two.\n</p>\n<p>\nOffer includes:\n<br />\nAccommodation in a King Double room or Superior Double room with breakfast, 2 days 1 night\n<br />\nDinner for 2 people at the Easy Breezy restaurant\n<br />\nEarly check-in (from 09.00) or late check-out (until 15.00) - at your choice\n<br />\nSweet present from the hotel\n<br />\nPanoramic view of the city\n</p>\n",
+                "defaultOccupancy": "2 people",
+                "deposit": "No guarantee deposit. The credit/debit card number is required but the card will not be debited.",
+                "shortDeposit": "No guarantee deposit",
+                "included": "Half board included",
+                "excluded": "",
+                "occupancy": {
+                  "adults": 2,
+                  "children": 0,
+                  "infants": 0,
+                  "value": "2 adults"
+                },
+                "occupancyId": 0,
+                "price": 141.0,
+                "rateCode": "DIRECT-SKYLOVE",
+                "rateName": "Sky Love Package",
+                "totalPrice": 141.0,
+                "formattedPrice": "€ 141",
+                "formattedTotalPrice": "€ 141",
+                "formattedPriceOff": "",
+                "formattedTotalPriceOff": "",
+                "availabilityText": "Only 3 rooms left!",
+                "taxPrice": 0.0,
+                "ratePrice": 141.0,
+                "totalRatePrice": 141.0,
+                "trackingPrice": 141.0,
+                "trackingRatePrice": 141.0,
+                "rateCurrency": "EUR",
+                "quantity": 1,
+                "availability": 3,
+                "cancelCondition": "\u0000",
+                "rateId": 398809,
+                "roomId": 107879,
+                "type": 8,
+                "cancellationType": "CancelationUnderCondition",
+                "packageName": "Sky Love Package",
+                "sku": "H24755/R107879",
+                "offerId": "R398809/O0",
+                "isValid": false,
+                "message": null,
+                "priceChanged": false,
+                "defaultPicture": {
+                  "display": "https://i.1pic.co/files/images/Smart_Package_Principal/68fcbbbc-1b3f-4636-82ac-0e3faf954743",
+                  "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/68fcbbbc-1b3f-4636-82ac-0e3faf954743"
+                },
+                "pictures": [],
+                "hasBookingFees": false,
+                "isBookingRequest": false,
+                "taxAndFees": "Taxes included. Note that stay tax may apply, in that case, its amount will be indicated at the booking step. No booking fees.",
+                "occupationSort": 2,
+                "guestSort": 0,
+                "rateSortOrder": 45,
+                "extendedStayNights": 0,
+                "extendedStayText": "",
+                "extendedMoreNights": false,
+                "availablePackages": [],
+                "includedTaxes": [],
+                "includedTaxesAmount": "",
+                "excludedTaxes": [
+                  "City Tax : EUR1.80 per person per night"
+                ],
+                "excludedTaxesAmount": "",
+                "offerCode": "",
+                "offerCodeTitle": "",
+                "offerCodeDescription": "",
+                "offerCodeType": 0,
+                "isOfferCodeValid": false,
+                "isRoom": true,
+                "internetStatus": "",
+                "breakfastStatus": "",
+                "taxesStatus": "",
+                "mixedRate": null,
+                "offerCodeId": null,
+                "displayOccupancyDetails": true,
+                "mealPlanDetail": null
+              }
+            ],
+            "includedTaxes": [],
+            "includedTaxesAmount": "",
+            "excludedTaxes": [
+              "City Tax : EUR1.80 per person per night"
+            ],
+            "excludedTaxesAmount": "",
+            "offerCode": "",
+            "offerCodeTitle": "",
+            "offerCodeDescription": "",
+            "offerCodeType": 0,
+            "isOfferCodeValid": false,
+            "isRoom": true,
+            "internetStatus": "",
+            "breakfastStatus": "",
+            "taxesStatus": "",
+            "mixedRate": null,
+            "offerCodeId": null,
+            "displayOccupancyDetails": true,
+            "mealPlanDetail": null
+          }
+        ],
+        "moreRates": [],
+        "amenities": [
+          {
+            "name": "No smoking",
+            "value": "NonSmoking"
+          },
+          {
+            "name": "Air conditioning",
+            "value": "AirConditioning"
+          },
+          {
+            "name": "Minibar",
+            "value": "MiniBar"
+          },
+          {
+            "name": "Safe",
+            "value": "SafeBox"
+          },
+          {
+            "name": "Iron and ironing board",
+            "value": "IroningBoard"
+          },
+          {
+            "name": "Telephone",
+            "value": "Phone"
+          },
+          {
+            "name": "Private bathroom",
+            "value": "Bathroom"
+          },
+          {
+            "name": "Hair dryer",
+            "value": "HairDryer"
+          },
+          {
+            "name": "Shower",
+            "value": "Shower"
+          },
+          {
+            "name": "Flatscreen TV",
+            "value": "FlatScreenTelevision"
+          },
+          {
+            "name": "Wireless Internet access",
+            "value": "WirelessInternetAccess"
+          },
+          {
+            "name": "Radio",
+            "value": "Radio"
+          },
+          {
+            "name": "Alarm",
+            "value": "AlarmClock"
+          }
+        ],
+        "sortOrder": 4,
+        "isRoom": true,
+        "maxOccupancy": 3,
+        "displayOccupancyDetails": true,
+        "maxAdults": 3,
+        "maxChildren": 0,
+        "maxInfants": 1,
+        "defaultRequestedOccupancy": {
+          "adults": 2,
+          "children": 0,
+          "infants": 0,
+          "value": "2 adults"
+        }
+      },
+      {
+        "roomId": 107897,
+        "name": "Twin Room",
+        "summary": "<p>\nEnjoy excellent stay in our comfortable Twin room with two comfortable Single beds. High speed wireless internet is available in every room. Complimentary toiletries are available in well-designed bathrooms.\n</p>\n<p>\nPlease NOTE: From the 1st of November to check-in to the hotel the guests should have either negative coronavirus (COVID-19) PCR test result or the certificate of full vaccination.\n</p>\n",
+        "category": "",
+        "type": 3,
+        "typeFilter": "Twin",
+        "defaultOccupancy": "2 people",
+        "notEnoughPlace": "",
+        "sort": 0,
+        "beds": [
+          {
+            "count": 2,
+            "type": "Single bed",
+            "size": "35 x 79 in",
+            "twoPersonConvertible": false
+          }
+        ],
+        "roomSize": "355.21 ft²",
+        "roomSizes": "33 m² or 355.21 ft²",
+        "defaultPicture": {
+          "display": "https://i.1pic.co/files/images/Smart_Room_Principal/d1323287-671e-4c07-8422-ffd48490a9c6",
+          "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/d1323287-671e-4c07-8422-ffd48490a9c6"
+        },
+        "pictures": [
+          {
+            "display": "https://i.1pic.co/files/images/Smart_Gallery_Preview/b5606020-dd79-4465-91a2-c42f77e77215",
+            "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/b5606020-dd79-4465-91a2-c42f77e77215"
+          },
+          {
+            "display": "https://i.1pic.co/files/images/Smart_Gallery_Preview/2355271e-8725-47d7-bac7-2115aebaf9b1",
+            "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/2355271e-8725-47d7-bac7-2115aebaf9b1"
+          },
+          {
+            "display": "https://i.1pic.co/files/images/Smart_Gallery_Preview/5305b8aa-6b47-454c-959b-77dbcaa71deb",
+            "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/5305b8aa-6b47-454c-959b-77dbcaa71deb"
+          }
+        ],
+        "rates": [
+          {
+            "roomName": "Twin Room",
+            "beds": [
+              {
+                "count": 2,
+                "type": "Single bed",
+                "size": "35 x 79 in",
+                "twoPersonConvertible": false
+              }
+            ],
+            "cancellationPolicy": "Free cancellation before 2/4/2022 at 2:00 PM. If cancelled after this or in the event of a no-show at the hotel, the first night without extras is charged and non-refundable.",
+            "cancellationShortPolicy": "Free cancellation before 2/4/2022 at 2:00 PM",
+            "title": "Deal -12%, Room Only",
+            "forceNameDisplay": true,
+            "subTitle": " cancellation fees",
+            "packageType": 0,
+            "mealPlan": "RoomOnly",
+            "mealPlanLabel": "",
+            "sortOrder": 1,
+            "summary": "",
+            "defaultOccupancy": "2 people",
+            "deposit": "No guarantee deposit. The credit/debit card number is required but the card will not be debited.",
+            "shortDeposit": "No guarantee deposit",
+            "included": "",
+            "excluded": "",
+            "occupancy": {
+              "adults": 2,
+              "children": 0,
+              "infants": 0,
+              "value": "2 adults"
+            },
+            "occupancyId": 0,
+            "price": 63.0,
+            "rateCode": "DIRECT-RO",
+            "rateName": "Deal -12%, Room Only",
+            "totalPrice": 63.0,
+            "formattedPrice": "€ 63",
+            "formattedTotalPrice": "€ 63",
+            "formattedPriceOff": "€ 72",
+            "formattedTotalPriceOff": "€ 72",
+            "availabilityText": "Only 1 room left!",
+            "taxPrice": 0.0,
+            "ratePrice": 63.0,
+            "totalRatePrice": 63.0,
+            "trackingPrice": 63.0,
+            "trackingRatePrice": 63.0,
+            "rateCurrency": "EUR",
+            "quantity": 1,
+            "availability": 1,
+            "cancelCondition": "\u0000",
+            "rateId": 314387,
+            "roomId": 107897,
+            "type": 0,
+            "cancellationType": "CancelationUnderCondition",
+            "packageName": "",
+            "sku": "H24755/R107897",
+            "offerId": "R314387/O0",
+            "isValid": false,
+            "message": null,
+            "priceChanged": false,
+            "defaultPicture": null,
+            "pictures": null,
+            "hasBookingFees": false,
+            "isBookingRequest": false,
+            "taxAndFees": "Taxes included. Note that stay tax may apply, in that case, its amount will be indicated at the booking step. No booking fees.",
+            "occupationSort": 2,
+            "guestSort": 0,
+            "rateSortOrder": 1,
+            "extendedStayNights": 0,
+            "extendedStayText": "",
+            "extendedMoreNights": false,
+            "availablePackages": [],
+            "includedTaxes": [],
+            "includedTaxesAmount": "",
+            "excludedTaxes": [
+              "City Tax : EUR1.80 per person per night"
+            ],
+            "excludedTaxesAmount": "",
+            "offerCode": "",
+            "offerCodeTitle": "",
+            "offerCodeDescription": "",
+            "offerCodeType": 0,
+            "isOfferCodeValid": false,
+            "isRoom": true,
+            "internetStatus": "",
+            "breakfastStatus": "",
+            "taxesStatus": "",
+            "mixedRate": null,
+            "offerCodeId": null,
+            "displayOccupancyDetails": true,
+            "mealPlanDetail": null
+          },
+          {
+            "roomName": "Twin Room",
+            "beds": [
+              {
+                "count": 2,
+                "type": "Single bed",
+                "size": "35 x 79 in",
+                "twoPersonConvertible": false
+              }
+            ],
+            "cancellationPolicy": "Free cancellation before 2/4/2022 at 2:00 PM. If cancelled after this or in the event of a no-show at the hotel, the first night without extras is charged and non-refundable.",
+            "cancellationShortPolicy": "Free cancellation before 2/4/2022 at 2:00 PM",
+            "title": "Deal -12% with Breakfast",
+            "forceNameDisplay": true,
+            "subTitle": " cancellation fees",
+            "packageType": 1,
+            "mealPlan": "BreakfastIncluded",
+            "mealPlanLabel": "",
+            "sortOrder": 12,
+            "summary": "",
+            "defaultOccupancy": "2 people",
+            "deposit": "No guarantee deposit. The credit/debit card number is required but the card will not be debited.",
+            "shortDeposit": "No guarantee deposit",
+            "included": "Breakfast included",
+            "excluded": "",
+            "occupancy": {
+              "adults": 2,
+              "children": 0,
+              "infants": 0,
+              "value": "2 adults"
+            },
+            "occupancyId": 0,
+            "price": 83.0,
+            "rateCode": "DIRECT",
+            "rateName": "Deal -12% with Breakfast",
+            "totalPrice": 83.0,
+            "formattedPrice": "€ 83",
+            "formattedTotalPrice": "€ 83",
+            "formattedPriceOff": "€ 92",
+            "formattedTotalPriceOff": "€ 92",
+            "availabilityText": "Only 1 room left!",
+            "taxPrice": 0.0,
+            "ratePrice": 83.0,
+            "totalRatePrice": 83.0,
+            "trackingPrice": 83.0,
+            "trackingRatePrice": 83.0,
+            "rateCurrency": "EUR",
+            "quantity": 1,
+            "availability": 1,
+            "cancelCondition": "\u0000",
+            "rateId": 314209,
+            "roomId": 107897,
+            "type": 1,
+            "cancellationType": "CancelationUnderCondition",
+            "packageName": "",
+            "sku": "H24755/R107897",
+            "offerId": "R314209/O0",
+            "isValid": false,
+            "message": null,
+            "priceChanged": false,
+            "defaultPicture": null,
+            "pictures": null,
+            "hasBookingFees": false,
+            "isBookingRequest": false,
+            "taxAndFees": "Taxes included. Note that stay tax may apply, in that case, its amount will be indicated at the booking step. No booking fees.",
+            "occupationSort": 2,
+            "guestSort": 0,
+            "rateSortOrder": 12,
+            "extendedStayNights": 0,
+            "extendedStayText": "",
+            "extendedMoreNights": false,
+            "availablePackages": [],
+            "includedTaxes": [],
+            "includedTaxesAmount": "",
+            "excludedTaxes": [
+              "City Tax : EUR1.80 per person per night"
+            ],
+            "excludedTaxesAmount": "",
+            "offerCode": "",
+            "offerCodeTitle": "",
+            "offerCodeDescription": "",
+            "offerCodeType": 0,
+            "isOfferCodeValid": false,
+            "isRoom": true,
+            "internetStatus": "",
+            "breakfastStatus": "",
+            "taxesStatus": "",
+            "mixedRate": null,
+            "offerCodeId": null,
+            "displayOccupancyDetails": true,
+            "mealPlanDetail": {
+              "name": "Breakfast Buffet",
+              "pictures": [],
+              "content": "",
+              "totalPrice": 20.0,
+              "totalMealPlanPrice": 20.0
+            }
+          }
+        ],
+        "moreRates": [],
+        "amenities": [
+          {
+            "name": "No smoking",
+            "value": "NonSmoking"
+          },
+          {
+            "name": "Air conditioning",
+            "value": "AirConditioning"
+          },
+          {
+            "name": "Minibar",
+            "value": "MiniBar"
+          },
+          {
+            "name": "Soundproofed",
+            "value": "Soundproof"
+          },
+          {
+            "name": "Safe",
+            "value": "SafeBox"
+          },
+          {
+            "name": "Iron and ironing board",
+            "value": "IroningBoard"
+          },
+          {
+            "name": "Telephone",
+            "value": "Phone"
+          },
+          {
+            "name": "Private bathroom",
+            "value": "Bathroom"
+          },
+          {
+            "name": "Shower",
+            "value": "Shower"
+          },
+          {
+            "name": "Television",
+            "value": "Television"
+          },
+          {
+            "name": "Flatscreen TV",
+            "value": "FlatScreenTelevision"
+          },
+          {
+            "name": "Wireless Internet access",
+            "value": "WirelessInternetAccess"
+          },
+          {
+            "name": "Radio",
+            "value": "Radio"
+          },
+          {
+            "name": "Alarm",
+            "value": "AlarmClock"
+          }
+        ],
+        "sortOrder": 5,
+        "isRoom": true,
+        "maxOccupancy": 3,
+        "displayOccupancyDetails": true,
+        "maxAdults": 3,
+        "maxChildren": 0,
+        "maxInfants": 0,
+        "defaultRequestedOccupancy": {
+          "adults": 2,
+          "children": 0,
+          "infants": 0,
+          "value": "2 adults"
+        }
+      },
+      {
+        "roomId": 107896,
+        "name": "King Double Room for single use",
+        "summary": "<p>\nEnjoy excellent stay in our comfortable King room for Single use with all necessary amenities. High speed wireless internet is available in every room. Complimentary toiletries are available in well-designed bathrooms.\n</p>\n<p>\nPlease NOTE: From the 1st of November to check-in to the hotel the guests should have either negative coronavirus (COVID-19) PCR test result or the certificate of full vaccination.\n</p>\n",
+        "category": "",
+        "type": 1,
+        "typeFilter": "Single",
+        "defaultOccupancy": "1 person",
+        "notEnoughPlace": "To accommodate all of your guests, you need to book multiple rooms or select additional beds (upon availability)",
+        "sort": 6,
+        "beds": [
+          {
+            "count": 1,
+            "type": "Double bed",
+            "size": "55 x 79 in",
+            "twoPersonConvertible": false
+          }
+        ],
+        "roomSize": "247.57 ft²",
+        "roomSizes": "23 m² or 247.57 ft²",
+        "defaultPicture": {
+          "display": "https://i.1pic.co/files/images/Smart_Room_Principal/259f7758-ced1-440b-b34a-e2bf1d8b7353",
+          "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/259f7758-ced1-440b-b34a-e2bf1d8b7353"
+        },
+        "pictures": [
+          {
+            "display": "https://i.1pic.co/files/images/Smart_Gallery_Preview/6e74b8b9-59da-4a77-84a9-9c8772ae7c87",
+            "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/6e74b8b9-59da-4a77-84a9-9c8772ae7c87"
+          },
+          {
+            "display": "https://i.1pic.co/files/images/Smart_Gallery_Preview/96eee878-353a-4f5c-b5fb-6ee4fdcec451",
+            "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/96eee878-353a-4f5c-b5fb-6ee4fdcec451"
+          },
+          {
+            "display": "https://i.1pic.co/files/images/Smart_Gallery_Preview/2520b1bf-425b-4228-8ace-e0e75b1dc596",
+            "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/2520b1bf-425b-4228-8ace-e0e75b1dc596"
+          }
+        ],
+        "rates": [
+          {
+            "roomName": "King Double Room for single use",
+            "beds": [
+              {
+                "count": 1,
+                "type": "Double bed",
+                "size": "55 x 79 in",
+                "twoPersonConvertible": false
+              }
+            ],
+            "cancellationPolicy": "Free cancellation before 2/4/2022 at 2:00 PM. If cancelled after this or in the event of a no-show at the hotel, the first night without extras is charged and non-refundable.",
+            "cancellationShortPolicy": "Free cancellation before 2/4/2022 at 2:00 PM",
+            "title": "Deal -12%, Room Only",
+            "forceNameDisplay": true,
+            "subTitle": " cancellation fees",
+            "packageType": 0,
+            "mealPlan": "RoomOnly",
+            "mealPlanLabel": "",
+            "sortOrder": 1,
+            "summary": "",
+            "defaultOccupancy": "1 person",
+            "deposit": "No guarantee deposit. The credit/debit card number is required but the card will not be debited.",
+            "shortDeposit": "No guarantee deposit",
+            "included": "",
+            "excluded": "",
+            "occupancy": {
+              "adults": 1,
+              "children": 0,
+              "infants": 0,
+              "value": "1 adult"
+            },
+            "occupancyId": 0,
+            "price": 57.0,
+            "rateCode": "DIRECT-RO",
+            "rateName": "Deal -12%, Room Only",
+            "totalPrice": 57.0,
+            "formattedPrice": "€ 57",
+            "formattedTotalPrice": "€ 57",
+            "formattedPriceOff": "€ 65",
+            "formattedTotalPriceOff": "€ 65",
+            "availabilityText": "Only 5 rooms left!",
+            "taxPrice": 0.0,
+            "ratePrice": 57.0,
+            "totalRatePrice": 57.0,
+            "trackingPrice": 57.0,
+            "trackingRatePrice": 57.0,
+            "rateCurrency": "EUR",
+            "quantity": 1,
+            "availability": 5,
+            "cancelCondition": "\u0000",
+            "rateId": 314387,
+            "roomId": 107896,
+            "type": 0,
+            "cancellationType": "CancelationUnderCondition",
+            "packageName": "",
+            "sku": "H24755/R107896",
+            "offerId": "R314387/O0",
+            "isValid": false,
+            "message": null,
+            "priceChanged": false,
+            "defaultPicture": null,
+            "pictures": null,
+            "hasBookingFees": false,
+            "isBookingRequest": false,
+            "taxAndFees": "Taxes included. Note that stay tax may apply, in that case, its amount will be indicated at the booking step. No booking fees.",
+            "occupationSort": 2,
+            "guestSort": 6,
+            "rateSortOrder": 1,
+            "extendedStayNights": 0,
+            "extendedStayText": "",
+            "extendedMoreNights": false,
+            "availablePackages": [],
+            "includedTaxes": [],
+            "includedTaxesAmount": "",
+            "excludedTaxes": [
+              "City Tax : EUR1.80 per person per night"
+            ],
+            "excludedTaxesAmount": "",
+            "offerCode": "",
+            "offerCodeTitle": "",
+            "offerCodeDescription": "",
+            "offerCodeType": 0,
+            "isOfferCodeValid": false,
+            "isRoom": true,
+            "internetStatus": "",
+            "breakfastStatus": "",
+            "taxesStatus": "",
+            "mixedRate": null,
+            "offerCodeId": null,
+            "displayOccupancyDetails": true,
+            "mealPlanDetail": null
+          },
+          {
+            "roomName": "King Double Room for single use",
+            "beds": [
+              {
+                "count": 1,
+                "type": "Double bed",
+                "size": "55 x 79 in",
+                "twoPersonConvertible": false
+              }
+            ],
+            "cancellationPolicy": "Free cancellation before 2/4/2022 at 2:00 PM. If cancelled after this or in the event of a no-show at the hotel, the first night without extras is charged and non-refundable.",
+            "cancellationShortPolicy": "Free cancellation before 2/4/2022 at 2:00 PM",
+            "title": "Deal -12% with Breakfast",
+            "forceNameDisplay": true,
+            "subTitle": " cancellation fees",
+            "packageType": 1,
+            "mealPlan": "BreakfastIncluded",
+            "mealPlanLabel": "",
+            "sortOrder": 12,
+            "summary": "",
+            "defaultOccupancy": "1 person",
+            "deposit": "No guarantee deposit. The credit/debit card number is required but the card will not be debited.",
+            "shortDeposit": "No guarantee deposit",
+            "included": "Breakfast included",
+            "excluded": "",
+            "occupancy": {
+              "adults": 1,
+              "children": 0,
+              "infants": 0,
+              "value": "1 adult"
+            },
+            "occupancyId": 0,
+            "price": 67.0,
+            "rateCode": "DIRECT",
+            "rateName": "Deal -12% with Breakfast",
+            "totalPrice": 67.0,
+            "formattedPrice": "€ 67",
+            "formattedTotalPrice": "€ 67",
+            "formattedPriceOff": "€ 75",
+            "formattedTotalPriceOff": "€ 75",
+            "availabilityText": "Only 5 rooms left!",
+            "taxPrice": 0.0,
+            "ratePrice": 67.0,
+            "totalRatePrice": 67.0,
+            "trackingPrice": 67.0,
+            "trackingRatePrice": 67.0,
+            "rateCurrency": "EUR",
+            "quantity": 1,
+            "availability": 5,
+            "cancelCondition": "\u0000",
+            "rateId": 314209,
+            "roomId": 107896,
+            "type": 1,
+            "cancellationType": "CancelationUnderCondition",
+            "packageName": "",
+            "sku": "H24755/R107896",
+            "offerId": "R314209/O0",
+            "isValid": false,
+            "message": null,
+            "priceChanged": false,
+            "defaultPicture": null,
+            "pictures": null,
+            "hasBookingFees": false,
+            "isBookingRequest": false,
+            "taxAndFees": "Taxes included. Note that stay tax may apply, in that case, its amount will be indicated at the booking step. No booking fees.",
+            "occupationSort": 2,
+            "guestSort": 6,
+            "rateSortOrder": 12,
+            "extendedStayNights": 0,
+            "extendedStayText": "",
+            "extendedMoreNights": false,
+            "availablePackages": [],
+            "includedTaxes": [],
+            "includedTaxesAmount": "",
+            "excludedTaxes": [
+              "City Tax : EUR1.80 per person per night"
+            ],
+            "excludedTaxesAmount": "",
+            "offerCode": "",
+            "offerCodeTitle": "",
+            "offerCodeDescription": "",
+            "offerCodeType": 0,
+            "isOfferCodeValid": false,
+            "isRoom": true,
+            "internetStatus": "",
+            "breakfastStatus": "",
+            "taxesStatus": "",
+            "mixedRate": null,
+            "offerCodeId": null,
+            "displayOccupancyDetails": true,
+            "mealPlanDetail": {
+              "name": "Breakfast Buffet",
+              "pictures": [],
+              "content": "",
+              "totalPrice": 10.0,
+              "totalMealPlanPrice": 10.0
+            }
+          }
+        ],
+        "moreRates": [],
+        "amenities": [
+          {
+            "name": "No smoking",
+            "value": "NonSmoking"
+          },
+          {
+            "name": "Air conditioning",
+            "value": "AirConditioning"
+          },
+          {
+            "name": "Minibar",
+            "value": "MiniBar"
+          },
+          {
+            "name": "Safe",
+            "value": "SafeBox"
+          },
+          {
+            "name": "Iron and ironing board",
+            "value": "IroningBoard"
+          },
+          {
+            "name": "Telephone",
+            "value": "Phone"
+          },
+          {
+            "name": "Private bathroom",
+            "value": "Bathroom"
+          },
+          {
+            "name": "Hair dryer",
+            "value": "HairDryer"
+          },
+          {
+            "name": "Shower",
+            "value": "Shower"
+          },
+          {
+            "name": "Flatscreen TV",
+            "value": "FlatScreenTelevision"
+          },
+          {
+            "name": "Wireless Internet access",
+            "value": "WirelessInternetAccess"
+          },
+          {
+            "name": "Radio",
+            "value": "Radio"
+          },
+          {
+            "name": "Alarm",
+            "value": "AlarmClock"
+          }
+        ],
+        "sortOrder": 1,
+        "isRoom": true,
+        "maxOccupancy": 1,
+        "displayOccupancyDetails": true,
+        "maxAdults": 1,
+        "maxChildren": 0,
+        "maxInfants": 1,
+        "defaultRequestedOccupancy": {
+          "adults": 1,
+          "children": 0,
+          "infants": 0,
+          "value": "1 adult"
+        }
+      },
+      {
+        "roomId": 108025,
+        "name": "Superior Sky King Double Room City view single use",
+        "summary": "<p>\nEnjoy excellent stay with magnificent views in our Superior Sky King rooms. Modern interior and high quality amenities are welcoming you. Working area is equipped with ergonomic chair. High speed wireless internet is available in every room. Complimentary toiletries are available in well-designed bathrooms.\n</p>\n<p>\nPlease NOTE: From the 1st of November to check-in to the hotel the guests should have either negative coronavirus (COVID-19) PCR test result or the certificate of full vaccination.\n</p>\n",
+        "category": "Superior",
+        "type": 1,
+        "typeFilter": "Single-Superior",
+        "defaultOccupancy": "1 person",
+        "notEnoughPlace": "To accommodate all of your guests, you need to book multiple rooms or select additional beds (upon availability)",
+        "sort": 6,
+        "beds": [
+          {
+            "count": 1,
+            "type": "Double bed",
+            "size": "55 x 79 in",
+            "twoPersonConvertible": false
+          }
+        ],
+        "roomSize": "247.57 ft²",
+        "roomSizes": "23 m² or 247.57 ft²",
+        "defaultPicture": {
+          "display": "https://i.1pic.co/files/images/Smart_Room_Principal/b40d05ee-f62b-48f7-bcbf-24abf0f4ef8a",
+          "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/b40d05ee-f62b-48f7-bcbf-24abf0f4ef8a"
+        },
+        "pictures": [
+          {
+            "display": "https://i.1pic.co/files/images/Smart_Gallery_Preview/87f9f011-90b8-4eb1-800e-c5fc14e3e17c",
+            "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/87f9f011-90b8-4eb1-800e-c5fc14e3e17c"
+          },
+          {
+            "display": "https://i.1pic.co/files/images/Smart_Gallery_Preview/5bf9852a-12df-45f1-bafc-ea2a81d7a7b1",
+            "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/5bf9852a-12df-45f1-bafc-ea2a81d7a7b1"
+          },
+          {
+            "display": "https://i.1pic.co/files/images/Smart_Gallery_Preview/10c36ca8-4cab-404b-adbe-af3594df96aa",
+            "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/10c36ca8-4cab-404b-adbe-af3594df96aa"
+          },
+          {
+            "display": "https://i.1pic.co/files/images/Smart_Gallery_Preview/b0921e2b-af6b-4506-b8b9-8b0292d2caf3",
+            "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/b0921e2b-af6b-4506-b8b9-8b0292d2caf3"
+          },
+          {
+            "display": "https://i.1pic.co/files/images/Smart_Gallery_Preview/3c5aba01-da23-44cc-bbae-f3686b082094",
+            "zoom": "https://i.1pic.co/files/images/Smart_Image_Zoom/3c5aba01-da23-44cc-bbae-f3686b082094"
+          }
+        ],
+        "rates": [
+          {
+            "roomName": "Superior Sky King Double Room City view single use",
+            "beds": [
+              {
+                "count": 1,
+                "type": "Double bed",
+                "size": "55 x 79 in",
+                "twoPersonConvertible": false
+              }
+            ],
+            "cancellationPolicy": "Free cancellation before 2/4/2022 at 2:00 PM. If cancelled after this or in the event of a no-show at the hotel, the first night without extras is charged and non-refundable.",
+            "cancellationShortPolicy": "Free cancellation before 2/4/2022 at 2:00 PM",
+            "title": "Deal -12%, Room Only",
+            "forceNameDisplay": true,
+            "subTitle": " cancellation fees",
+            "packageType": 0,
+            "mealPlan": "RoomOnly",
+            "mealPlanLabel": "",
+            "sortOrder": 1,
+            "summary": "",
+            "defaultOccupancy": "1 person",
+            "deposit": "No guarantee deposit. The credit/debit card number is required but the card will not be debited.",
+            "shortDeposit": "No guarantee deposit",
+            "included": "",
+            "excluded": "",
+            "occupancy": {
+              "adults": 1,
+              "children": 0,
+              "infants": 0,
+              "value": "1 adult"
+            },
+            "occupancyId": 0,
+            "price": 61.0,
+            "rateCode": "DIRECT-RO",
+            "rateName": "Deal -12%, Room Only",
+            "totalPrice": 61.0,
+            "formattedPrice": "€ 61",
+            "formattedTotalPrice": "€ 61",
+            "formattedPriceOff": "€ 69",
+            "formattedTotalPriceOff": "€ 69",
+            "availabilityText": "Only 2 rooms left!",
+            "taxPrice": 0.0,
+            "ratePrice": 61.0,
+            "totalRatePrice": 61.0,
+            "trackingPrice": 61.0,
+            "trackingRatePrice": 61.0,
+            "rateCurrency": "EUR",
+            "quantity": 1,
+            "availability": 2,
+            "cancelCondition": "\u0000",
+            "rateId": 314387,
+            "roomId": 108025,
+            "type": 0,
+            "cancellationType": "CancelationUnderCondition",
+            "packageName": "",
+            "sku": "H24755/R108025",
+            "offerId": "R314387/O0",
+            "isValid": false,
+            "message": null,
+            "priceChanged": false,
+            "defaultPicture": null,
+            "pictures": null,
+            "hasBookingFees": false,
+            "isBookingRequest": false,
+            "taxAndFees": "Taxes included. Note that stay tax may apply, in that case, its amount will be indicated at the booking step. No booking fees.",
+            "occupationSort": 2,
+            "guestSort": 6,
+            "rateSortOrder": 1,
+            "extendedStayNights": 0,
+            "extendedStayText": "",
+            "extendedMoreNights": false,
+            "availablePackages": [],
+            "includedTaxes": [],
+            "includedTaxesAmount": "",
+            "excludedTaxes": [
+              "City Tax : EUR1.80 per person per night"
+            ],
+            "excludedTaxesAmount": "",
+            "offerCode": "",
+            "offerCodeTitle": "",
+            "offerCodeDescription": "",
+            "offerCodeType": 0,
+            "isOfferCodeValid": false,
+            "isRoom": true,
+            "internetStatus": "",
+            "breakfastStatus": "",
+            "taxesStatus": "",
+            "mixedRate": null,
+            "offerCodeId": null,
+            "displayOccupancyDetails": true,
+            "mealPlanDetail": null
+          },
+          {
+            "roomName": "Superior Sky King Double Room City view single use",
+            "beds": [
+              {
+                "count": 1,
+                "type": "Double bed",
+                "size": "55 x 79 in",
+                "twoPersonConvertible": false
+              }
+            ],
+            "cancellationPolicy": "Free cancellation before 2/4/2022 at 2:00 PM. If cancelled after this or in the event of a no-show at the hotel, the first night without extras is charged and non-refundable.",
+            "cancellationShortPolicy": "Free cancellation before 2/4/2022 at 2:00 PM",
+            "title": "Deal -12% with Breakfast",
+            "forceNameDisplay": true,
+            "subTitle": " cancellation fees",
+            "packageType": 1,
+            "mealPlan": "BreakfastIncluded",
+            "mealPlanLabel": "",
+            "sortOrder": 12,
+            "summary": "",
+            "defaultOccupancy": "1 person",
+            "deposit": "No guarantee deposit. The credit/debit card number is required but the card will not be debited.",
+            "shortDeposit": "No guarantee deposit",
+            "included": "Breakfast included",
+            "excluded": "",
+            "occupancy": {
+              "adults": 1,
+              "children": 0,
+              "infants": 0,
+              "value": "1 adult"
+            },
+            "occupancyId": 0,
+            "price": 71.0,
+            "rateCode": "DIRECT",
+            "rateName": "Deal -12% with Breakfast",
+            "totalPrice": 71.0,
+            "formattedPrice": "€ 71",
+            "formattedTotalPrice": "€ 71",
+            "formattedPriceOff": "€ 79",
+            "formattedTotalPriceOff": "€ 79",
+            "availabilityText": "Only 2 rooms left!",
+            "taxPrice": 0.0,
+            "ratePrice": 71.0,
+            "totalRatePrice": 71.0,
+            "trackingPrice": 71.0,
+            "trackingRatePrice": 71.0,
+            "rateCurrency": "EUR",
+            "quantity": 1,
+            "availability": 2,
+            "cancelCondition": "\u0000",
+            "rateId": 314209,
+            "roomId": 108025,
+            "type": 1,
+            "cancellationType": "CancelationUnderCondition",
+            "packageName": "",
+            "sku": "H24755/R108025",
+            "offerId": "R314209/O0",
+            "isValid": false,
+            "message": null,
+            "priceChanged": false,
+            "defaultPicture": null,
+            "pictures": null,
+            "hasBookingFees": false,
+            "isBookingRequest": false,
+            "taxAndFees": "Taxes included. Note that stay tax may apply, in that case, its amount will be indicated at the booking step. No booking fees.",
+            "occupationSort": 2,
+            "guestSort": 6,
+            "rateSortOrder": 12,
+            "extendedStayNights": 0,
+            "extendedStayText": "",
+            "extendedMoreNights": false,
+            "availablePackages": [],
+            "includedTaxes": [],
+            "includedTaxesAmount": "",
+            "excludedTaxes": [
+              "City Tax : EUR1.80 per person per night"
+            ],
+            "excludedTaxesAmount": "",
+            "offerCode": "",
+            "offerCodeTitle": "",
+            "offerCodeDescription": "",
+            "offerCodeType": 0,
+            "isOfferCodeValid": false,
+            "isRoom": true,
+            "internetStatus": "",
+            "breakfastStatus": "",
+            "taxesStatus": "",
+            "mixedRate": null,
+            "offerCodeId": null,
+            "displayOccupancyDetails": true,
+            "mealPlanDetail": {
+              "name": "Breakfast Buffet",
+              "pictures": [],
+              "content": "",
+              "totalPrice": 10.0,
+              "totalMealPlanPrice": 10.0
+            }
+          }
+        ],
+        "moreRates": [],
+        "amenities": [
+          {
+            "name": "No smoking",
+            "value": "NonSmoking"
+          },
+          {
+            "name": "Air conditioning",
+            "value": "AirConditioning"
+          },
+          {
+            "name": "Minibar",
+            "value": "MiniBar"
+          },
+          {
+            "name": "Safe",
+            "value": "SafeBox"
+          },
+          {
+            "name": "Iron and ironing board",
+            "value": "IroningBoard"
+          },
+          {
+            "name": "Telephone",
+            "value": "Phone"
+          },
+          {
+            "name": "Private bathroom",
+            "value": "Bathroom"
+          },
+          {
+            "name": "Hair dryer",
+            "value": "HairDryer"
+          },
+          {
+            "name": "Shower",
+            "value": "Shower"
+          },
+          {
+            "name": "Flatscreen TV",
+            "value": "FlatScreenTelevision"
+          },
+          {
+            "name": "Wireless Internet access",
+            "value": "WirelessInternetAccess"
+          },
+          {
+            "name": "Alarm",
+            "value": "AlarmClock"
+          }
+        ],
+        "sortOrder": 2,
+        "isRoom": true,
+        "maxOccupancy": 1,
+        "displayOccupancyDetails": true,
+        "maxAdults": 1,
+        "maxChildren": 0,
+        "maxInfants": 1,
+        "defaultRequestedOccupancy": {
+          "adults": 1,
+          "children": 0,
+          "infants": 0,
+          "value": "1 adult"
+        }
+      }
+    ],
+    "moreRooms": [],
+    "bookingRequest": [],
+    "restrictedRooms": [],
+    "roomTypes": [
+      {
+        "value": "Double",
+        "name": "Double room"
+      },
+      {
+        "value": "Double-Superior",
+        "name": "Double room Superior"
+      },
+      {
+        "value": "Twin",
+        "name": "Twin room"
+      },
+      {
+        "value": "Single",
+        "name": "Single room"
+      },
+      {
+        "value": "Single-Superior",
+        "name": "Single room Superior"
+      }
+    ],
+    "mealPlan": [
+      {
+        "value": "RoomOnly",
+        "name": "Room only"
+      },
+      {
+        "value": "BreakfastIncluded",
+        "name": "Breakfast included"
+      },
+      {
+        "value": "HalfBoardPackage",
+        "name": "Halfboard package"
+      }
+    ],
+    "cancelationPolicy": [
+      {
+        "value": "CancelationUnderCondition",
+        "name": "Cancellation subject to conditions"
+      }
+    ],
+    "amenities": [
+      {
+        "name": "Hair dryer",
+        "value": "HairDryer"
+      },
+      {
+        "name": "Radio",
+        "value": "Radio"
+      },
+      {
+        "name": "Soundproofed",
+        "value": "Soundproof"
+      },
+      {
+        "name": "Television",
+        "value": "Television"
+      }
+    ],
+    "offerCode": null
+  },
+  "message": null,
+  "breakingChanges": false
+}
