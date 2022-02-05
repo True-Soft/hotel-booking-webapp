@@ -1,0 +1,106 @@
+{
+  "registration_form": [
+    {
+      "name": "name",
+      "value": "John"
+    },
+    {
+      "name": "surname",
+      "value": "Kemadami"
+    },
+    {
+      "name": "phone",
+      "value": "+442035675467"
+    },
+    {
+      "name": "email",
+      "value": "tombo234@gmail.com"
+    },
+    {
+      "name": "citizenship",
+      "value": "87"
+    },
+    {
+      "name": "guest_status",
+      "value": "person"
+    },
+    {
+      "name": "company",
+      "value": ""
+    },
+    {
+      "name": "comment",
+      "value": ""
+    },
+    {
+      "name": "consent_personal_data",
+      "value": "on"
+    },
+    {
+      "name": "g-recaptcha-response",
+      "value": "03AGdBq26NzuDDG66At_sj9p0d2iMvaduswbidxEihumuB1y1N5t1fJK8vZQbMNtWNgvbzBzpqHtfjHB5xadrRhtvOj9y8P-cfzeI85HpE7e3hFY9qh8ph9_QXImO_Y39vGiB7NCY_LTHgXke3dxtqQUROoTlQZai0R1g4g_vZWXlH7HdhpbA-rBzKaDurCoxReeydITeer0133qnK5gAmfpjVWw_a0Z-Na5Jilcjj7mZfstIWQ1kYl9OoToXO4o-Z4wcOyjBLZ-55asIOLU18viAhJsveftIORQi5WCQGj3B1JSfivjEWzLsNI5VMLWZtEES4tgAxb-zKGO1fM99WVBXbm0r4NfXj_8bel2OhTfL6qYp3ztfFk0lok0uvvYuzfwzf35foUGpWM_0zEost8BzlEV68rs01e3-vyxwe91O9q6aslM9ZEA49V5OCfXxMgVexTFQWhg17"
+    }
+  ],
+  "last_submit": {
+    "csrfmiddlewaretoken": "",
+    "hotel": "73",
+    "date_range": "08.02.2022 — 10.02.2022",
+    "guests_list": "{\"1\":{\"adults\":3,\"children\":[],\"loyalty_code\":\"\"}}",
+    "partner_code": "",
+    "agent_status": "1",
+    "start_time": "14:00",
+    "end_time": "12:00",
+    "tourist_tax": null,
+    "token": "",
+    "rooms_id": {
+      "1": {
+        "room_id": 1047479,
+        "is_non_return": false,
+        "pricelist_id": 1068377,
+        "contract_condition_id": 256128,
+        "room_price_t": "4716.0",
+        "room_price": "4620.0",
+        "paid_types": [
+          300
+        ],
+        "bed": "",
+        "loyalty_code": "",
+        "sale_restrictions": {
+          "ClosedToArrive": {
+            "HasRestrictions": false,
+            "Message": ""
+          },
+          "ClosedToSale": {
+            "HasRestrictions": false,
+            "Message": ""
+          },
+          "EarlyReservation": {
+            "HasRestrictions": false,
+            "Message": ""
+          },
+          "MinPay": {
+            "Days": 1,
+            "Message": "",
+            "MinPayPaymentRules": null
+          },
+          "MinStay": {
+            "Days": 0,
+            "HasRestrictions": false,
+            "Message": ""
+          }
+        }
+      }
+    },
+    "currency": "UAH",
+    "services_total": {
+      "dwelling": 4200,
+      "extrabed": 420,
+      "toursbor": 96
+    }
+  },
+  "booking_module_id": "4",
+  "lang": "en",
+  "session_id": 16421828,
+  "session_url": "https://reikartz.com/en/",
+  "referrer": ""
+}

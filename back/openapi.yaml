@@ -3,49 +3,176 @@ info:
   title: Hotel Booking Web API
   version: 1.0.0
 paths:
-  /rooms:
-    get:
+  /rooms/find:
+    post:
       summary: Find rooms for booking
-
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/FindRoomsRequest'
       responses:
         200:
           description: Rooms for booking
           content:
             application/json:
               schema:
-                type: object
-                properties:
-                  result:
-                    type: string
-                  data:
-                    type: array
+                $ref: '#/components/schemas/FindRoomsResponse'
 
   /bookings:
     post:
-      summary: Create a booking/bookings.
+      summary: Create a booking
       requestBody:
         required: true
         content:
           application/json:
             schema:
-              $ref: '#components/schemas/CreateBookingRequest
+              $ref: '#/components/schemas/CreateBookingRequest'
       responses:
         200:
-          description: X
+          description: Successful booking
           content:
             application/json:
               schema:
-                type: object
+                $ref: '#/components/schemas/CreateBookingResponse'
 
 components:
   schemas:
-    CreateBookingRequest:
+    FindRoomsRequest:
+      title: FindRoomsRequest
+      description: Sending an array of rooms with guests that will be living there
       type: object
       properties:
-        clientInfo:
-          type: object
-          properties:
-            name:
-              type: string
+        hotelId:
+          type: number
+        checkInDate:
+          type: string
+          format: date
+        checkOutDate:
+          type: string
+          format: date
+        guests:
+          type: array
+          items:
+            type: object
+            properties:
+              adults:
+                type: number
+              children:
+                type: array
+                items:
+                  type: number
+    FindRoomsResponse:
+      title: FindRoomsResponse
+      description: Return an array of group of rooms available for client in the same order that it was specified in request
+      type: object
+      properties:
+        data:
+          type: array
+          items:
+            type: object
+            properties:
+              rooms:
+                type: array
+                items:
+                  $ref: '#/components/schemas/RoomInfo'
+    CreateBookingRequest:
+      title: CreateBookingRequest
+      type: object
+      properties:
+        checkInDate:
+          type: string
+          format: date
+        checkOutDate:
+          type: string
+          format: date
+        guestInfo:
+          $ref: '#/components/schemas/MainGuestInfo'
         rooms:
           type: array
+          items:
+            $ref: '#/components/schemas/BookingRoomInfo'
+    CreateBookingResponse:
+      title: CreateBookingResponse
+      description: May be updated in future
+      type: object
+      properties:
+        data:
+          type: object
+          properties:
+            id:
+              type: number
+    RoomInfo:
+      title: RoomInfo
+      type: object
+      properties:
+        id:
+          type: number
+        name:
+          type: string
+        images:
+          description: Array of images urls
+          type: array
+          items:
+            type: string
+        size:
+          description: In m^2
+          type: number
+        breakfast:
+          type: boolean
+        beds:
+          type: array
+          items:
+            type: object
+            properties:
+              name:
+                type: string
+              quantity:
+                type: number
+        description:
+          type: string
+        pricing:
+          type: object
+          description: TBA
+    MainGuestInfo:
+      title: GuestInfo
+      type: object
+      properties:
+        firstName:
+          type: string
+        lastName:
+          type: string
+        gender:
+          type: string
+          enum: ["male", "female"]
+        email:
+          type: string
+        citizenship:
+          type: string
+          description: Should be implemented as dropdown
+        phoneNumber:
+          type: string
+    BookingRoomInfo:
+      title: BookingRoomInfo
+      type: object
+      properties:
+        roomTypeId:
+          type: number
+        guests:
+          type: array
+          items:
+            $ref: '#/components/schemas/GuestInfo'
+    GuestInfo:
+      title: GuestInfo
+      type: object
+      properties:
+        firstName:
+          type: string
+        lastName:
+          type: string
+        gender:
+          type: string
+          enum: [ "male", "female" ]
+        age:
+          type: number

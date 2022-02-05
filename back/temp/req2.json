@@ -1,0 +1,57 @@
+{
+  "booking_module_id": "4",
+  "lang": "en",
+  "session_id": 16429650,
+  "session_url": "https://reikartz.com/en/",
+  "form": [
+    {
+      "name": "csrfmiddlewaretoken",
+      "value": ""
+    },
+    {
+      "name": "hotel",
+      "value": "73"
+    },
+    {
+      "name": "date_range",
+      "value": "08.02.2022 — 10.02.2022"
+    },
+    {
+      "name": "guests_list",
+      "value": "{\"1\":{\"adults\":2,\"children\":[],\"loyalty_code\":\"\"},\"2\":{\"adults\":1,\"children\":[\"4\",\"2\"],\"loyalty_code\":\"\"},\"3\":{\"adults\":2,\"children\":[],\"loyalty_code\":\"\"}}"
+    },
+    {
+      "name": "partner_code",
+      "value": ""
+    },
+    {
+      "name": "loyalty_code",
+      "value": ""
+    },
+    {
+      "name": "agent_status",
+      "value": "1"
+    },
+    {
+      "name": "loyalty_code",
+      "value": ""
+    },
+    {
+      "name": "loyalty_code",
+      "value": ""
+    },
+    {
+      "name": "loyalty_code",
+      "value": ""
+    },
+    {
+      "name": "start_time",
+      "value": "14:00"
+    },
+    {
+      "name": "end_time",
+      "value": "12:00"
+    }
+  ],
+  "token": ""
+}
