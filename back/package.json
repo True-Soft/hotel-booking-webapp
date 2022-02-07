@@ -2,12 +2,15 @@
   "name": "hotel-booking-wep-api",
   "version": "1.0.0",
   "scripts": {
-    "start": "tsc -w & nodemon -q -w build build/src/index.js",
-    "start:prod": "node build/src/index.js",
+    "start": "tsc -w & nodemon -q -w build dist/src/index.js",
+    "start:prod": "node dist/src/index.js",
     "build": "tsc -p tsconfig.release.json"
   },
   "dependencies": {
     "bcrypt": "^5.0.1",
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.13.2",
+    "dotenv": "^16.0.0",
     "express": "^4.17.2",
     "typeorm": "^0.2.41"
   },
@@ -22,6 +25,7 @@
     "eslint-plugin-jest": "^26.0.0",
     "nodemon": "^2.0.15",
     "prettier": "^2.5.1",
+    "tsconfig-paths": "^3.12.0",
     "tsutils": "^3.21.0",
     "typescript": "^4.5.5"
   }

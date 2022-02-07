@@ -1,13 +1,14 @@
-import * as express from 'express'
+import { app } from '@routers';
+import { config } from '@config';
+// import tsConfig from '../tsconfig.json';
+// import { register } from 'tsconfig-paths';
+//
+// const baseUrl = '../';
+// register({
+//   baseUrl,
+//   paths: tsConfig.compilerOptions.paths,
+// });
 
-const app = express();
-
-app.use((req, res) => {
-  console.log(req.query);
-
-  res.json(req.query);
-})
-
-app.listen(3000, () => {
-  console.log(`Example app listening on port 3000`)
-})
+app.listen(config.port, () => {
+  console.log(`App listening on port ${config.port}`);
+});

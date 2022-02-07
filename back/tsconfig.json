@@ -2,8 +2,31 @@
   "compilerOptions": {
     "module": "commonjs",
     "target": "es6",
-    "rootDir": ".",
-    "outDir": "build",
+    "rootDir": "./",
+    "outDir": "dist",
+    "baseUrl": "./src",
+    "resolveJsonModule": true,
+    "esModuleInterop": false,
+    "paths": {
+      "@config/*": ["config/*"],
+      "@config": ["config/index.ts"],
+      "@controllers/*": ["controllers/*"],
+      "@controllers": ["controllers/index.ts"],
+      "@dtos/*": ["dtos/*"],
+      "@dtos": ["dtos/index.ts"],
+      "@errors/*": ["errors/*"],
+      "@errors": ["errors/index.ts"],
+      "@middlewares/*": ["middlewares/*"],
+      "@middlewares": ["middlewares/index.ts"],
+      "@models/*": ["models/*"],
+      "@models": ["models/index.ts"],
+      "@routers/*": ["routers/*"],
+      "@routers": ["routers/index.ts"],
+      "@services/*": ["services/*"],
+      "@services": ["services/index.ts"],
+      "@utils/*": ["utils/*"],
+      "@utils": ["utils/index.ts"]
+    },
     "sourceMap": true
   },
   "exclude": [
