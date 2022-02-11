@@ -1,11 +1,12 @@
 import React from 'react';
 import { Button, Container, Form, FormControl, Nav, Navbar, NavDropdown } from 'react-bootstrap';
+import { ABOUTUS_ROUTE, HOME_ROUTE, HOTEL_ROUTE, SPECIAL_ROUTE } from '../utils/consts';
 
 const NavBar = () => {
   return (
-    <Navbar bg="light" expand="lg">
+    <Navbar style={{backgroundColor: 'rgba(0, 0, 0, 0.25)'}} expand="lg">
       <Container fluid>
-        <Navbar.Brand href="#">Navbar scroll</Navbar.Brand>
+        <Navbar.Brand>Hotel Booking</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
@@ -13,19 +14,14 @@ const NavBar = () => {
             style={{ maxHeight: '100px' }}
             navbarScroll
           >
-            <Nav.Link href="#action1">Home</Nav.Link>
-            <Nav.Link href="#action2">Link</Nav.Link>
-            <NavDropdown title="Link" id="navbarScrollingDropdown">
-              <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
-              <NavDropdown.Item href="#action4">Another action</NavDropdown.Item>
-              <NavDropdown.Divider />
-              <NavDropdown.Item href="#action5">
-                Something else here
-              </NavDropdown.Item>
+            <Nav.Link href={HOME_ROUTE}>Home</Nav.Link>
+            <Nav.Link href={HOTEL_ROUTE}>Hotels</Nav.Link>
+            <Nav.Link href={SPECIAL_ROUTE}>Special Offers</Nav.Link>
+            <Nav.Link href={ABOUTUS_ROUTE}>About Us</Nav.Link>
+            <NavDropdown title="More" id="navbarScrollingDropdown">
+              <NavDropdown.Item href="#">Blog</NavDropdown.Item>
+              <NavDropdown.Item href="#">Reviews</NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link href="#" disabled>
-              Link
-            </Nav.Link>
           </Nav>
           <Form className="d-flex">
             <FormControl

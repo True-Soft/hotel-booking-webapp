@@ -7,7 +7,7 @@ import BookingInfo from './pages/BookingInfo';
 
 export const hotelRoutes = [
     {
-        path: SPECIAL_ROUTE + '/:id',
+        path: SPECIAL_ROUTE,
         Component: SpecialOffer
     },
     {
@@ -19,7 +19,7 @@ export const hotelRoutes = [
         Component: AboutUs
     },
     {
-        path: HOTEL_ROUTE + '/:id',
+        path: HOTEL_ROUTE,
         Component: HotelInfo
     },
     {
