@@ -1,0 +1,5 @@
+export const HOTEL_ROUTE = '/hotel'
+export const SPECIAL_ROUTE = '/special'
+export const BOOKING_ROUTE = '/booking'
+export const ABOUTUS_ROUTE = '/aboutus'
+export const HOME_ROUTE = '/'

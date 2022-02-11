@@ -1,10 +1,15 @@
-import React from 'react';
+import React, { createContext } from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
+import HotelStore from './strore/HotelStore';
+
+export const Context = createContext(null)
 
 ReactDOM.render(
-  <React.StrictMode>
+  <Context.Provider value={{
+      hotel: new HotelStore(),
+  }}>
     <App />
-  </React.StrictMode>,
+  </Context.Provider>,
   document.getElementById('root')
 );
